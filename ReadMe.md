@@ -1,4 +1,4 @@
-1) The MatSim datase for few shot material recogntion can be download from (1)[https://icedrive.net/s/A13FWzZ8V2aP9T4ufGQ1N3fBZxDF], (2)[https://e1.pcloud.link/publink/show?code=kZIiSQZCYU5M4HOvnQykql9jxF4h0KiC5MX) 
+1) The MatSim datase for few shot material recogntion can be download from [1](https://icedrive.net/s/A13FWzZ8V2aP9T4ufGQ1N3fBZxDF), (2)[https://e1.pcloud.link/publink/show?code=kZIiSQZCYU5M4HOvnQykql9jxF4h0KiC5MX) 
 2) Contrastive net trained on the MatSim Dataset can be downloaded from [here](https://github.com/sagieppel/Contrastive-learning-for-one-shot-materials-and-textures-similarity-recognition-from-images)
 3) Generator script for creating the MatSim Datasets for material on objects can be downloaded from [here](https://github.com/sagieppel/MatSim-Generator-Generate-image-of-random-materials-on-ranodm-objects-with-Blender)
 4) Generator script for creating the MatSim Datasets for material in transparent containers can be downloaded from [here](https://github.com/sagieppel/MatSim-Generator-Script-For-similarity-recognition-of-materials-in-transperent-vessels-blender)
